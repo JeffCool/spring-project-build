@@ -13,6 +13,8 @@
     <modules>
         <module>spring-project-parent</module>
         <module>spring-project-dependencies</module>
+        <module>handsome-web</module>
+        <module>rampage-core</module>
     </modules>
 
     <properties>
